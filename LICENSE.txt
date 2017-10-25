@@ -1,6 +1,8 @@
 Plitka
 Copyright (C) 2016-2017 Erik Letson
 
+Plitka is licensed under the MIT (Expat) license.
+
 Certain files included with Plitka are covered by different
 licenses. These are as follows:
 

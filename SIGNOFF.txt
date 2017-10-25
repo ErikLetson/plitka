@@ -1,0 +1,5 @@
+The undersigned release all their contributions to the Plitka project under the MIT (Expat) license.
+
+*********************************************
+
+1. Erik Letson <hmagellan@tutamail.com>

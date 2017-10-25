@@ -2,16 +2,6 @@
 
 import pygame, os, random
 
-#PLITKA GOALS
-
-#meta
-#feel smoother than my previous games
-#feel very frantic at a high level
-
-#specific
-#release on itch.io as well as game jolt
-#make a youtube video
-
 SCREEN_WIDTH = 1088
 SCREEN_HEIGHT = 704
 FRAMERATE = 60
@@ -241,7 +231,7 @@ class Game(object):
         self.on = True
 
         self.font = pygame.font.Font(os.path.join('data', 'font',
-                                                  'kremlin.ttf'), 12)
+                                                  'schilder.ttf'), 16)
 
         self.score_header = self.font.render('score', False, (255, 255, 255))
         self.best_header = self.font.render('best', False, (255, 255, 255))

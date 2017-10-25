@@ -32,7 +32,7 @@ license.
 
 ## License and History
 
-Plitka is license under the MIT (Expat) license. It includes some other files that are covered under different
+Plitka is licensed under the MIT (Expat) license. It includes some other files that are covered under different
 licenses. For a full summary, please read the [license file](LICENSE.txt).
 
 Plitka was originally created by Erik Letson in February 2016 as part of the [One Game A Month Challenge](http://www.onegameamonth.com/). It was
